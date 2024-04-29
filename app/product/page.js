@@ -28,7 +28,7 @@ export default function Product() {
                 <br></br>
                 <br></br>
                 <br></br>
-                <h1>산업용 세라믹 부품</h1>
+                <h1>산업용 세라믹 부품11</h1>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
