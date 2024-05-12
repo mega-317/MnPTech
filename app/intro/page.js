@@ -2,7 +2,7 @@ export default function Intro() {
     return (
         <div>
             <div className="introContent">
-                <h1>ABOUT M&P</h1>
+                <h1 id="about">ABOUT M&P</h1>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
@@ -16,7 +16,7 @@ export default function Intro() {
                 <br></br>
                 <br></br>
                 <br></br>
-                <h1>HISTORY</h1>
+                <h1 id="history">HISTORY</h1>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
@@ -51,7 +51,7 @@ export default function Intro() {
                 <br></br>
                 <br></br>
                 <br></br>
-                <h1>오시는 길</h1>
+                <h1 id="address">오시는 길</h1>
                 <div className="line"></div>
                 <br></br>
                 <br></br>

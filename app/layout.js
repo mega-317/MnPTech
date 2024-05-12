@@ -24,16 +24,16 @@ export default function RootLayout({ children }) {
                   <Link href="/intro">회사소개</Link>
                   <ul>
                     <li><Link href="/intro">회사소개</Link></li>
-                    <li><Link href="#">연혁</Link></li>
-                    <li><Link href="#">오시는 길</Link></li>
+                    <li><Link href="/intro/#history">연혁</Link></li>
+                    <li><Link href="/intro/#address">오시는 길</Link></li>
                   </ul>
                 </li>
                 <li>
                   <Link href="/product">제품</Link>
                   <ul>
-                    <li><Link href="#">자동차용 세라믹 부품</Link></li>
-                    <li><Link href="#">반도체 장비용 세라믹 부품</Link></li>
-                    <li><Link href="#">산업용 세라믹 부품</Link></li>
+                    <li><Link href="/product/#car">자동차용 세라믹 부품</Link></li>
+                    <li><Link href="/product/#semi">반도체 장비용 세라믹 부품</Link></li>
+                    <li><Link href="/product/#industy">산업용 세라믹 부품</Link></li>
                   </ul>
                 </li>
                 <li>

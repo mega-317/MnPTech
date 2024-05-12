@@ -16,15 +16,30 @@ export default function Business() {
                 <br></br>
                 <br></br>
                 <br></br>
-                <h3>자동차용 온도센서</h3>
+                <div className="cardDesign">
+                    <img className="cardImg" src={"/s7.jpg"}></img>
+                    <div className="cardText">
+                        <h4>자동차용 온도센서</h4>
+                    </div>
+                </div>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
-                <h3>세라믹히터(알루미나)</h3>
+                <div className="cardDesign">
+                    <img className="cardImg" src={"/s8.png"}></img>
+                    <div className="cardText">
+                        <h4>세라믹히터 (알루미나)</h4>
+                    </div>
+                </div>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
-                <h3>세라믹히터(질화규소)</h3>
+                <div className="cardDesign">
+                    <img className="cardImg" src={"/s9.png"}></img>
+                    <div className="cardText">
+                        <h4>세라믹히터 (질화규소)</h4>
+                    </div>
+                </div>
                 <div className="line"></div>
                 <br></br>
                 <br></br>
